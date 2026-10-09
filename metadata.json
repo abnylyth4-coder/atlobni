@@ -1,0 +1,8 @@
+{
+  "name": "Atlobni - On-Demand Delivery & Services",
+  "description": "On-demand food delivery, supermarket groceries, courier parcel services, and local home requests with live order tracking and Arabic/English bilingual support.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
